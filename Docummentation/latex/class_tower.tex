@@ -1,0 +1,41 @@
+\doxysection{Tower Class Reference}
+\hypertarget{class_tower}{}\label{class_tower}\index{Tower@{Tower}}
+
+
+Represents a placed tower that automatically targets and shoots the most-\/progressed enemy in range.  
+
+
+Inheritance diagram for Tower:\+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_tower}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{class_tower_aef20f2907d614d48af8a6b50960905bb}\label{class_tower_aef20f2907d614d48af8a6b50960905bb} 
+float {\bfseries range} = 2f
+\begin{DoxyCompactList}\small\item\em Attack range in world units. \end{DoxyCompactList}\item 
+\Hypertarget{class_tower_a1d062ddd3c6d101938aee95d185e6a61}\label{class_tower_a1d062ddd3c6d101938aee95d185e6a61} 
+float {\bfseries fire\+Rate} = 1f
+\begin{DoxyCompactList}\small\item\em Number of shots fired per second. \end{DoxyCompactList}\item 
+\Hypertarget{class_tower_ab5ce01338b9bbab25fb87c2451b3fd65}\label{class_tower_ab5ce01338b9bbab25fb87c2451b3fd65} 
+Game\+Object {\bfseries Projectile\+Prefab}
+\begin{DoxyCompactList}\small\item\em \doxylink{class_projectile}{Projectile} prefab instantiated on each shot. \end{DoxyCompactList}\item 
+\Hypertarget{class_tower_a2bb9d9887869c5a811722f3edb42cdf5}\label{class_tower_a2bb9d9887869c5a811722f3edb42cdf5} 
+Transform {\bfseries fire\+Point}
+\begin{DoxyCompactList}\small\item\em Transform marking the spawn point of fired projectiles. \end{DoxyCompactList}\item 
+\Hypertarget{class_tower_a7ae742c94086157ba7ba5bd4a41c9817}\label{class_tower_a7ae742c94086157ba7ba5bd4a41c9817} 
+int {\bfseries cost} = 5
+\begin{DoxyCompactList}\small\item\em Coin cost to place this tower. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Represents a placed tower that automatically targets and shoots the most-\/progressed enemy in range. 
+
+Attach to any tower prefab. Requires a Projectile\+Prefab and a fire\+Point child Transform. 
+
+The documentation for this class was generated from the following file:\+\begin{DoxyCompactItemize}
+\item 
+\doxymbox{\hyperlink{_tower_8cs}{Tower.\+cs}}\end{DoxyCompactItemize}

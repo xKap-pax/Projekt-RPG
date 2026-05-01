@@ -1,0 +1,35 @@
+\doxysection{Tower\+Placer Class Reference}
+\hypertarget{class_tower_placer}{}\label{class_tower_placer}\index{TowerPlacer@{TowerPlacer}}
+
+
+Reads mouse input each frame to show a placement ghost and place towers on valid tiles.  
+
+
+Inheritance diagram for Tower\+Placer:\+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_tower_placer}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{class_tower_placer_af310e2e452be851cfb779c2b915c8956}\label{class_tower_placer_af310e2e452be851cfb779c2b915c8956} 
+Tilemap {\bfseries placement\+Map}
+\begin{DoxyCompactList}\small\item\em Tilemap that defines valid tower placement cells. \end{DoxyCompactList}\item 
+\Hypertarget{class_tower_placer_a8a00e0bfa6c0747d9725e59fd031bb22}\label{class_tower_placer_a8a00e0bfa6c0747d9725e59fd031bb22} 
+Tilemap {\bfseries non\+Placable\+Map}
+\begin{DoxyCompactList}\small\item\em Tilemap that marks cells where placement is forbidden. \end{DoxyCompactList}\item 
+\Hypertarget{class_tower_placer_a96d9028ff426e9f688ee3ffc65376f57}\label{class_tower_placer_a96d9028ff426e9f688ee3ffc65376f57} 
+Game\+Object {\bfseries ghost\+Prefab}
+\begin{DoxyCompactList}\small\item\em Prefab used to render the ghost (preview) of the tower being placed. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Reads mouse input each frame to show a placement ghost and place towers on valid tiles. 
+
+Requires two Tilemaps:\+ one for valid placement tiles and one marking blocked zones. Works in conjunction with \doxylink{class_tower_selection}{Tower\+Selection} to know which prefab to place. 
+
+The documentation for this class was generated from the following file:\+\begin{DoxyCompactItemize}
+\item 
+\doxymbox{\hyperlink{_tower_placer_8cs}{Tower\+Placer.\+cs}}\end{DoxyCompactItemize}

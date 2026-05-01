@@ -1,0 +1,48 @@
+\doxysection{Ghost\+Tower Class Reference}
+\hypertarget{class_ghost_tower}{}\label{class_ghost_tower}\index{GhostTower@{GhostTower}}
+
+
+Renders a semi-\/transparent tower preview that changes color based on whether the tile is valid.  
+
+
+Inheritance diagram for Ghost\+Tower:\+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_ghost_tower}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \doxymbox{\hyperlink{class_ghost_tower_a660cf0fb45b61bfa22ff76e5c86b497f}{Set\+Valid}} (bool is\+Valid)
+\begin{DoxyCompactList}\small\item\em Updates the ghost color to reflect placement validity. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Renders a semi-\/transparent tower preview that changes color based on whether the tile is valid. 
+
+Green = valid placement. Red = invalid placement. Alpha is set to 50\% on Awake to distinguish the ghost from a real placed tower. 
+
+\label{doc-func-members}
+\Hypertarget{class_ghost_tower_doc-func-members}
+\doxysubsection{Member Function Documentation}
+\Hypertarget{class_ghost_tower_a660cf0fb45b61bfa22ff76e5c86b497f}\index{GhostTower@{GhostTower}!SetValid@{SetValid}}
+\index{SetValid@{SetValid}!GhostTower@{GhostTower}}
+\doxysubsubsection{\texorpdfstring{SetValid()}{SetValid()}}
+{\footnotesize\ttfamily \label{class_ghost_tower_a660cf0fb45b61bfa22ff76e5c86b497f} 
+void Ghost\+Tower.\+Set\+Valid (\begin{DoxyParamCaption}\item[{bool}]{is\+Valid}{}\end{DoxyParamCaption})}
+
+
+
+Updates the ghost color to reflect placement validity. 
+
+Note:\+ this overwrites the alpha set in Awake, making the ghost fully opaque when colored. Consider preserving alpha if a tinted semi-\/transparent look is desired. 
+\begin{DoxyParams}{Parameters}
+{\em is\+Valid} & True to color green (valid), false to color red (invalid). \\
+\hline
+\end{DoxyParams}
+
+
+The documentation for this class was generated from the following file:\+\begin{DoxyCompactItemize}
+\item 
+\doxymbox{\hyperlink{_ghost_tower_8cs}{Ghost\+Tower.\+cs}}\end{DoxyCompactItemize}

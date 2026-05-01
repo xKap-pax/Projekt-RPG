@@ -1,0 +1,70 @@
+\doxysection{Coin\+Manager Class Reference}
+\hypertarget{class_coin_manager}{}\label{class_coin_manager}\index{CoinManager@{CoinManager}}
+
+
+Singleton manager for the coin economy.  
+
+
+Inheritance diagram for Coin\+Manager:\+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_coin_manager}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \doxymbox{\hyperlink{class_coin_manager_a2c4c05be210bde068e58921d07b9bb46}{Update\+Coins}} (int change\+Amount)
+\begin{DoxyCompactList}\small\item\em Adds or subtracts coins and refreshes the HUD text immediately. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{class_coin_manager_aeedcddf78e42c8107b838ee2963c2b22}\label{class_coin_manager_aeedcddf78e42c8107b838ee2963c2b22} 
+int {\bfseries coins}
+\begin{DoxyCompactList}\small\item\em Current coin balance. Modify only through \doxylink{class_coin_manager_a2c4c05be210bde068e58921d07b9bb46}{Update\+Coins()} to keep UI in sync. \end{DoxyCompactList}\item 
+\Hypertarget{class_coin_manager_a7ce9d57e279923be6d78b00a6c3394c2}\label{class_coin_manager_a7ce9d57e279923be6d78b00a6c3394c2} 
+Text\+Mesh\+Pro\+UGUI {\bfseries coin\+Txt}
+\begin{DoxyCompactList}\small\item\em HUD Text\+Mesh\+Pro element that displays the current coin count. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Static Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{class_coin_manager_af25bc29bec09deb4115afbd9aa49530a}\label{class_coin_manager_af25bc29bec09deb4115afbd9aa49530a} 
+static \doxymbox{\hyperlink{class_coin_manager}{Coin\+Manager}} {\bfseries Instance}
+\begin{DoxyCompactList}\small\item\em Global singleton reference. Set on Awake. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Singleton manager for the coin economy. 
+
+Holds the current coin balance and keeps the HUD text in sync on every change. Access from any script via \doxylink{class_coin_manager_af25bc29bec09deb4115afbd9aa49530a}{Coin\+Manager.\+Instance}.
+
+\begin{DoxyNote}{Note}
+Only one \doxylink{class_coin_manager}{Coin\+Manager} should exist in the scene at a time. No duplicate protection is implemented — if multiple instances exist, the last one to Awake wins. 
+\end{DoxyNote}
+
+
+\label{doc-func-members}
+\Hypertarget{class_coin_manager_doc-func-members}
+\doxysubsection{Member Function Documentation}
+\Hypertarget{class_coin_manager_a2c4c05be210bde068e58921d07b9bb46}\index{CoinManager@{CoinManager}!UpdateCoins@{UpdateCoins}}
+\index{UpdateCoins@{UpdateCoins}!CoinManager@{CoinManager}}
+\doxysubsubsection{\texorpdfstring{UpdateCoins()}{UpdateCoins()}}
+{\footnotesize\ttfamily \label{class_coin_manager_a2c4c05be210bde068e58921d07b9bb46} 
+void Coin\+Manager.\+Update\+Coins (\begin{DoxyParamCaption}\item[{int}]{change\+Amount}{}\end{DoxyParamCaption})}
+
+
+
+Adds or subtracts coins and refreshes the HUD text immediately. 
+
+Pass a positive value to award coins, negative to spend them. Does not guard against the balance going below zero.
+
+
+\begin{DoxyParams}{Parameters}
+{\em change\+Amount} & Amount to add (positive) or subtract (negative) from the balance. \\
+\hline
+\end{DoxyParams}
+
+
+The documentation for this class was generated from the following file:\+\begin{DoxyCompactItemize}
+\item 
+\doxymbox{\hyperlink{_coin_manager_8cs}{Coin\+Manager.\+cs}}\end{DoxyCompactItemize}

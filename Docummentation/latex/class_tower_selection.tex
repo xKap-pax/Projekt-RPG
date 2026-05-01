@@ -1,0 +1,68 @@
+\doxysection{Tower\+Selection Class Reference}
+\hypertarget{class_tower_selection}{}\label{class_tower_selection}\index{TowerSelection@{TowerSelection}}
+
+
+UI controller that tracks which tower prefab the player has selected.  
+
+
+Inheritance diagram for Tower\+Selection:\+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_tower_selection}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \doxymbox{\hyperlink{class_tower_selection_a6ce724240e7f5f402651d5eadb0b566f}{select\+Tower}} (Game\+Object tower\+Prefab)
+\begin{DoxyCompactList}\small\item\em Selects or deselects a tower prefab. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Static Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+static Game\+Object \doxymbox{\hyperlink{class_tower_selection_afa014b46984d4da0ea4a39ef6987bb9c}{selected\+Tower\+Prefab}}
+\begin{DoxyCompactList}\small\item\em The currently selected tower prefab. Null means nothing is selected. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+UI controller that tracks which tower prefab the player has selected. 
+
+Attach to each tower selection button\textquotesingle{}s Game\+Object. Uses a static field so \doxylink{class_tower_placer}{Tower\+Placer} can read the selection without a direct reference. 
+
+\label{doc-func-members}
+\Hypertarget{class_tower_selection_doc-func-members}
+\doxysubsection{Member Function Documentation}
+\Hypertarget{class_tower_selection_a6ce724240e7f5f402651d5eadb0b566f}\index{TowerSelection@{TowerSelection}!selectTower@{selectTower}}
+\index{selectTower@{selectTower}!TowerSelection@{TowerSelection}}
+\doxysubsubsection{\texorpdfstring{selectTower()}{selectTower()}}
+{\footnotesize\ttfamily \label{class_tower_selection_a6ce724240e7f5f402651d5eadb0b566f} 
+void Tower\+Selection.\+select\+Tower (\begin{DoxyParamCaption}\item[{Game\+Object}]{tower\+Prefab}{}\end{DoxyParamCaption})}
+
+
+
+Selects or deselects a tower prefab. 
+
+Clicking the already-\/selected tower deselects it. If the player cannot afford the tower, selection is blocked. 
+\begin{DoxyParams}{Parameters}
+{\em tower\+Prefab} & The tower prefab to select. \\
+\hline
+\end{DoxyParams}
+
+
+\label{doc-variable-members}
+\Hypertarget{class_tower_selection_doc-variable-members}
+\doxysubsection{Member Data Documentation}
+\Hypertarget{class_tower_selection_afa014b46984d4da0ea4a39ef6987bb9c}\index{TowerSelection@{TowerSelection}!selectedTowerPrefab@{selectedTowerPrefab}}
+\index{selectedTowerPrefab@{selectedTowerPrefab}!TowerSelection@{TowerSelection}}
+\doxysubsubsection{\texorpdfstring{selectedTowerPrefab}{selectedTowerPrefab}}
+{\footnotesize\ttfamily \label{class_tower_selection_afa014b46984d4da0ea4a39ef6987bb9c} 
+Game\+Object Tower\+Selection.\+selected\+Tower\+Prefab\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+The currently selected tower prefab. Null means nothing is selected. 
+
+Shared across all \doxylink{class_tower_selection}{Tower\+Selection} instances via static access. 
+
+The documentation for this class was generated from the following file:\+\begin{DoxyCompactItemize}
+\item 
+Tower\+Selection\+UI.\+cs\end{DoxyCompactItemize}

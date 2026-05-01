@@ -1,0 +1,32 @@
+\doxysection{Projectile Class Reference}
+\hypertarget{class_projectile}{}\label{class_projectile}\index{Projectile@{Projectile}}
+
+
+Moves toward an assigned target each frame, rotating to face direction of travel.  
+
+
+Inheritance diagram for Projectile:\+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_projectile}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{class_projectile_a08b05673dcd2da844c04ad812f04b3aa}\label{class_projectile_a08b05673dcd2da844c04ad812f04b3aa} 
+float {\bfseries speed} = 8f
+\begin{DoxyCompactList}\small\item\em Movement speed in world units per second. \end{DoxyCompactList}\item 
+\Hypertarget{class_projectile_a158c4e21385fa618230014ba575bcce4}\label{class_projectile_a158c4e21385fa618230014ba575bcce4} 
+Transform {\bfseries target}
+\begin{DoxyCompactList}\small\item\em The Transform this projectile is homing toward. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Moves toward an assigned target each frame, rotating to face direction of travel. 
+
+On reaching the target, deals 1 damage. If the target dies, awards coins and destroys it. Self-\/destructs if the target is destroyed before impact. 
+
+The documentation for this class was generated from the following file:\+\begin{DoxyCompactItemize}
+\item 
+\doxymbox{\hyperlink{_projectile_8cs}{Projectile.\+cs}}\end{DoxyCompactItemize}

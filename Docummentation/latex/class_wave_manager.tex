@@ -1,0 +1,47 @@
+\doxysection{Wave\+Manager Class Reference}
+\hypertarget{class_wave_manager}{}\label{class_wave_manager}\index{WaveManager@{WaveManager}}
+
+
+Controls wave flow:\+ spawning enemies in sequence, timing, and UI state.  
+
+
+Inheritance diagram for Wave\+Manager:\+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_wave_manager}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{class_wave_manager_a5a75692210e1a1122bdb1e26cac5c320}\label{class_wave_manager_a5a75692210e1a1122bdb1e26cac5c320} 
+void {\bfseries Start\+Wave} ()
+\begin{DoxyCompactList}\small\item\em Attempts to start the next wave if no wave is running and waves remain. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{class_wave_manager_afa34bc5bfa3ce52945d9b625c1b47478}\label{class_wave_manager_afa34bc5bfa3ce52945d9b625c1b47478} 
+\doxymbox{\hyperlink{class_wave_data}{Wave\+Data}}\+[$\,$]\+ {\bfseries waves}
+\begin{DoxyCompactList}\small\item\em Array of wave configurations defined in the Inspector. \end{DoxyCompactList}\item 
+\Hypertarget{class_wave_manager_a2f06cb45114bc864038c469bf5186f49}\label{class_wave_manager_a2f06cb45114bc864038c469bf5186f49} 
+Button {\bfseries start\+Wave\+Button}
+\begin{DoxyCompactList}\small\item\em UI button that triggers the next wave when clicked. \end{DoxyCompactList}\item 
+\Hypertarget{class_wave_manager_abd7e58c6675770e982e25b831221652c}\label{class_wave_manager_abd7e58c6675770e982e25b831221652c} 
+Game\+Object {\bfseries easy\+Enemy\+Prefab}
+\begin{DoxyCompactList}\small\item\em Prefab used to spawn easy-\/type enemies. \end{DoxyCompactList}\item 
+\Hypertarget{class_wave_manager_ab4439439d7bf5c709e50a5cab1e638bb}\label{class_wave_manager_ab4439439d7bf5c709e50a5cab1e638bb} 
+Game\+Object {\bfseries hard\+Enemy\+Prefab}
+\begin{DoxyCompactList}\small\item\em Prefab used to spawn hard-\/type enemies. \end{DoxyCompactList}\item 
+\Hypertarget{class_wave_manager_afa60cf949573a18feec0a909a2792106}\label{class_wave_manager_afa60cf949573a18feec0a909a2792106} 
+Transform\+[$\,$]\+ {\bfseries way\+Points}
+\begin{DoxyCompactList}\small\item\em Ordered array of waypoints enemies follow through the map. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Controls wave flow:\+ spawning enemies in sequence, timing, and UI state. 
+
+Attach this to a manager Game\+Object in the scene. Requires references to enemy prefabs, waypoints, and a start button. 
+
+The documentation for this class was generated from the following file:\+\begin{DoxyCompactItemize}
+\item 
+\doxymbox{\hyperlink{_wave_manager_8cs}{Wave\+Manager.\+cs}}\end{DoxyCompactItemize}
