@@ -1,0 +1,3445 @@
+fileFormatVersion: 2
+guid: 49c7e2832ce09d446b7fec8bd69c144b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3457182401665472128
+    second: Mage_transparent_0
+  - first:
+      213: -4073854288678927368
+    second: Mage_transparent_1
+  - first:
+      213: 7481401196232517989
+    second: Mage_transparent_2
+  - first:
+      213: -4459680549336109716
+    second: Mage_transparent_3
+  - first:
+      213: -7840966067648155629
+    second: Mage_transparent_4
+  - first:
+      213: 3825192843350432454
+    second: Mage_transparent_5
+  - first:
+      213: -3895765206043208144
+    second: Mage_transparent_6
+  - first:
+      213: 3771302620769114612
+    second: Mage_transparent_7
+  - first:
+      213: -5671806871032337646
+    second: Mage_transparent_8
+  - first:
+      213: -7394516638538065797
+    second: Mage_transparent_9
+  - first:
+      213: -5788662959403706047
+    second: Mage_transparent_10
+  - first:
+      213: 4534695080275824750
+    second: Mage_transparent_11
+  - first:
+      213: -7368826843042918005
+    second: Mage_transparent_12
+  - first:
+      213: 2835088790658455893
+    second: Mage_transparent_13
+  - first:
+      213: 7410751051429797962
+    second: Mage_transparent_14
+  - first:
+      213: -303671628962565847
+    second: Mage_transparent_15
+  - first:
+      213: 1900058123612112604
+    second: Mage_transparent_16
+  - first:
+      213: -5131162884825120684
+    second: Mage_transparent_17
+  - first:
+      213: 4935079959484495519
+    second: Mage_transparent_18
+  - first:
+      213: 8955902936962204531
+    second: Mage_transparent_19
+  - first:
+      213: 9067784759707005012
+    second: Mage_transparent_20
+  - first:
+      213: 9164657030429259491
+    second: Mage_transparent_21
+  - first:
+      213: 2508216050169178438
+    second: Mage_transparent_22
+  - first:
+      213: -7918696640910718578
+    second: Mage_transparent_23
+  - first:
+      213: -946038083214275683
+    second: Mage_transparent_24
+  - first:
+      213: -9068985649088731334
+    second: Mage_transparent_25
+  - first:
+      213: 1177853657488498846
+    second: Mage_transparent_26
+  - first:
+      213: -1358803390539416408
+    second: Mage_transparent_27
+  - first:
+      213: -7234100494342151398
+    second: Mage_transparent_28
+  - first:
+      213: 3033252053546747906
+    second: Mage_transparent_29
+  - first:
+      213: 362913165864363580
+    second: Mage_transparent_30
+  - first:
+      213: 3472012280321899135
+    second: Mage_transparent_31
+  - first:
+      213: 3872596713064745521
+    second: Mage_transparent_32
+  - first:
+      213: 7932610615754197199
+    second: Mage_transparent_33
+  - first:
+      213: 1858282097975518212
+    second: Mage_transparent_34
+  - first:
+      213: -4508013705581875952
+    second: Mage_transparent_35
+  - first:
+      213: 2692328310362111507
+    second: Mage_transparent_36
+  - first:
+      213: 2463913554991952033
+    second: Mage_transparent_37
+  - first:
+      213: 722789452078538716
+    second: Mage_transparent_38
+  - first:
+      213: -6319273227431110595
+    second: Mage_transparent_39
+  - first:
+      213: 3956070302092935679
+    second: Mage_transparent_40
+  - first:
+      213: -5238233296086240912
+    second: Mage_transparent_41
+  - first:
+      213: 567154524410380461
+    second: Mage_transparent_42
+  - first:
+      213: 5790186339075253128
+    second: Mage_transparent_43
+  - first:
+      213: -3421597987179187314
+    second: Mage_transparent_44
+  - first:
+      213: 2051065842138142011
+    second: Mage_transparent_45
+  - first:
+      213: 6262593609230746396
+    second: Mage_transparent_46
+  - first:
+      213: -5933224586719764482
+    second: Mage_transparent_47
+  - first:
+      213: 7619633081400018804
+    second: Mage_transparent_48
+  - first:
+      213: 4061713055563787060
+    second: Mage_transparent_49
+  - first:
+      213: -1681041019561823326
+    second: Mage_transparent_50
+  - first:
+      213: -4927609140096214787
+    second: Mage_transparent_51
+  - first:
+      213: -7746802886688485706
+    second: Mage_transparent_52
+  - first:
+      213: -8965945951342031142
+    second: Mage_transparent_53
+  - first:
+      213: 340633820738122212
+    second: Mage_transparent_54
+  - first:
+      213: -5280295093907187415
+    second: Mage_transparent_55
+  - first:
+      213: -6025390916379537878
+    second: Mage_transparent_56
+  - first:
+      213: 8826048890487570056
+    second: Mage_transparent_57
+  - first:
+      213: -4150035456481068456
+    second: Mage_transparent_58
+  - first:
+      213: -2324516786182200809
+    second: Mage_transparent_59
+  - first:
+      213: 3943311037855411578
+    second: Mage_transparent_60
+  - first:
+      213: 3841302204390553375
+    second: Mage_transparent_61
+  - first:
+      213: -7209884057598344298
+    second: Mage_transparent_62
+  - first:
+      213: 3815890397422875657
+    second: Mage_transparent_63
+  - first:
+      213: -5397422252898512894
+    second: Mage_transparent_64
+  - first:
+      213: -9070273179040842427
+    second: Mage_transparent_65
+  - first:
+      213: -4614299365161173457
+    second: Mage_transparent_66
+  - first:
+      213: -8026539859639583803
+    second: Mage_transparent_67
+  - first:
+      213: 9093738035984199858
+    second: Mage_transparent_68
+  - first:
+      213: 4636812291704938029
+    second: Mage_transparent_69
+  - first:
+      213: -8518637415893532195
+    second: Mage_transparent_70
+  - first:
+      213: 3753531530130999501
+    second: Mage_transparent_71
+  - first:
+      213: -1539921229049900366
+    second: Mage_transparent_72
+  - first:
+      213: -481225112782279927
+    second: Mage_transparent_73
+  - first:
+      213: -934425400319410860
+    second: Mage_transparent_74
+  - first:
+      213: -2510235367204677333
+    second: Mage_transparent_75
+  - first:
+      213: -7380861525535846519
+    second: Mage_transparent_76
+  - first:
+      213: 7103410893152403268
+    second: Mage_transparent_77
+  - first:
+      213: -6053081358993751279
+    second: Mage_transparent_78
+  - first:
+      213: 3308207405749799493
+    second: Mage_transparent_79
+  - first:
+      213: -5988682319440106094
+    second: Mage_transparent_80
+  - first:
+      213: -1647140243877572192
+    second: Mage_transparent_81
+  - first:
+      213: 3512428590403479946
+    second: Mage_transparent_82
+  - first:
+      213: -317801715380050168
+    second: Mage_transparent_83
+  - first:
+      213: -3523650543305112187
+    second: Mage_transparent_84
+  - first:
+      213: -1312160578668589592
+    second: Mage_transparent_85
+  - first:
+      213: 274933072856144396
+    second: Mage_transparent_86
+  - first:
+      213: 205933277328296424
+    second: Mage_transparent_87
+  - first:
+      213: -281981552571058877
+    second: Mage_transparent_88
+  - first:
+      213: 4735569918042101206
+    second: Mage_transparent_89
+  - first:
+      213: -5198328868769673702
+    second: Mage_transparent_90
+  - first:
+      213: 2159108466146253854
+    second: Mage_transparent_91
+  - first:
+      213: -2606256415734305510
+    second: Mage_transparent_92
+  - first:
+      213: 6032542671392265426
+    second: Mage_transparent_93
+  - first:
+      213: 5393570008347311246
+    second: Mage_transparent_94
+  - first:
+      213: 9186479880300294071
+    second: Mage_transparent_95
+  - first:
+      213: -6614415959665805400
+    second: Mage_transparent_96
+  - first:
+      213: -7240625275805424612
+    second: Mage_transparent_97
+  - first:
+      213: 6704273711989434384
+    second: Mage_transparent_98
+  - first:
+      213: 8574920451217406283
+    second: Mage_transparent_99
+  - first:
+      213: 7349070677836540295
+    second: Mage_transparent_100
+  - first:
+      213: 7838058470938666737
+    second: Mage_transparent_101
+  - first:
+      213: 3457280019438961955
+    second: Mage_transparent_102
+  - first:
+      213: -1779622359582301139
+    second: Mage_transparent_103
+  - first:
+      213: -1266622112851300797
+    second: Mage_transparent_104
+  - first:
+      213: 2087258070647632997
+    second: Mage_transparent_105
+  - first:
+      213: -6650034316986003258
+    second: Mage_transparent_106
+  - first:
+      213: -8979113259268327436
+    second: Mage_transparent_107
+  - first:
+      213: -3357989055153554188
+    second: Mage_transparent_108
+  - first:
+      213: -6531122550451888567
+    second: Mage_transparent_109
+  - first:
+      213: -5505305521840540234
+    second: Mage_transparent_110
+  - first:
+      213: -4179006793147496406
+    second: Mage_transparent_111
+  - first:
+      213: -1146207315306141947
+    second: Mage_transparent_112
+  - first:
+      213: -2215605199749682504
+    second: Mage_transparent_113
+  - first:
+      213: -6105349789372892335
+    second: Mage_transparent_114
+  - first:
+      213: -8100959697895579404
+    second: Mage_transparent_115
+  - first:
+      213: 7485410977349368678
+    second: Mage_transparent_116
+  - first:
+      213: 7823910466894444125
+    second: Mage_transparent_117
+  - first:
+      213: -5023951666656820973
+    second: Mage_transparent_118
+  - first:
+      213: -6053356944191812668
+    second: Mage_transparent_119
+  - first:
+      213: -3903093124766379448
+    second: Mage_transparent_120
+  - first:
+      213: 1331467856376360043
+    second: Mage_transparent_121
+  - first:
+      213: 6653854924763760180
+    second: Mage_transparent_122
+  - first:
+      213: -25071940318427299
+    second: Mage_transparent_123
+  - first:
+      213: 535070043775396621
+    second: Mage_transparent_124
+  - first:
+      213: -411591979789053399
+    second: Mage_transparent_125
+  - first:
+      213: 6315885759645834492
+    second: Mage_transparent_126
+  - first:
+      213: 390919555629381091
+    second: Mage_transparent_127
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mage_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1079
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0896ff03cee9500d0800000000000000
+      internalID: -3457182401665472128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1079
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f34790db13c677c0800000000000000
+      internalID: -4073854288678927368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_2
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1078
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5692f93ffb643d760800000000000000
+      internalID: 7481401196232517989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_3
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1078
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d2a153b280c12c0800000000000000
+      internalID: -4459680549336109716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_4
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1078
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310b0f997ea4f2390800000000000000
+      internalID: -7840966067648155629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_5
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1078
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cad441df90d51530800000000000000
+      internalID: 3825192843350432454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 985
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036d77d8f267fe9c0800000000000000
+      internalID: -3895765206043208144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 984
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9517b90cb565430800000000000000
+      internalID: 3771302620769114612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 984
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b6f7983b1b941b0800000000000000
+      internalID: -5671806871032337646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 984
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78193a8b46616990800000000000000
+      internalID: -7394516638538065797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_10
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 985
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149d74445b98aafa0800000000000000
+      internalID: -5788662959403706047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_11
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 985
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e605d8056297eee30800000000000000
+      internalID: 4534695080275824750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 885
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b815019270bacb990800000000000000
+      internalID: -7368826843042918005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_13
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 885
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55993e1fb32485720800000000000000
+      internalID: 2835088790658455893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_14
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 884
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40635341d648d660800000000000000
+      internalID: 7410751051429797962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_15
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 884
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921725b234429cbf0800000000000000
+      internalID: -303671628962565847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_16
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 884
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6ce76ebcc5e5a10800000000000000
+      internalID: 1900058123612112604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_17
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 885
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4508455da827ac8b0800000000000000
+      internalID: -5131162884825120684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 791
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96f833731dec7440800000000000000
+      internalID: 4935079959484495519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_19
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 791
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37382805542c94c70800000000000000
+      internalID: 8955902936962204531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_20
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 789
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450790e123e37dd70800000000000000
+      internalID: 9067784759707005012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 826
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6b50343076f2f70800000000000000
+      internalID: 9164657030429259491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_22
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 827
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64964426539fec220800000000000000
+      internalID: 2508216050169178438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_23
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 816
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8900723c532b1290800000000000000
+      internalID: -7918696640910718578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_24
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 814
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b850a206ffed2f0800000000000000
+      internalID: -946038083214275683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_25
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 832
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3763f80a9d742280800000000000000
+      internalID: -9068985649088731334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_26
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 836
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e902ff339a3985010800000000000000
+      internalID: 1177853657488498846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_27
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 820
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac3d4bf38f842de0800000000000000
+      internalID: -1358803390539416408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_28
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 815
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a132245adef4b9b90800000000000000
+      internalID: -7234100494342151398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_29
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 841
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208c0edfba6481a20800000000000000
+      internalID: 3033252053546747906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_30
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 822
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3668aff993590500800000000000000
+      internalID: 362913165864363580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_31
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 824
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a716006c01f2030800000000000000
+      internalID: 3472012280321899135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_32
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 785
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ac190513a3eb530800000000000000
+      internalID: 3872596713064745521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_33
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 782
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc88585835b461e60800000000000000
+      internalID: 7932610615754197199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_34
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 793
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4046c46f8b1f9c910800000000000000
+      internalID: 1858282097975518212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 787
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d23345b615071c0800000000000000
+      internalID: -4508013705581875952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_36
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 796
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e7cdd65521d5520800000000000000
+      internalID: 2692328310362111507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_37
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 780
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0b09ae254913220800000000000000
+      internalID: 2463913554991952033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_38
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 785
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf5a8a5d2dd70a00800000000000000
+      internalID: 722789452078538716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_39
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 786
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3815580b7e6d48a0800000000000000
+      internalID: -6319273227431110595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_40
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 740
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1c8b6caf8c6e630800000000000000
+      internalID: 3956070302092935679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_41
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 745
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071f720129e0e47b0800000000000000
+      internalID: -5238233296086240912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_42
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 749
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da08c38f800fed700800000000000000
+      internalID: 567154524410380461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_43
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 697
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88366e33ccfda5050800000000000000
+      internalID: 5790186339075253128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_44
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 696
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e833ef152ca0480d0800000000000000
+      internalID: -3421597987179187314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_45
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 730
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35d4933489d67c10800000000000000
+      internalID: 2051065842138142011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_46
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 731
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1384daf4b339e650800000000000000
+      internalID: 6262593609230746396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_47
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 736
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff54f78ca3f8ada0800000000000000
+      internalID: -5933224586719764482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_48
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 719
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477c9afbaef5eb960800000000000000
+      internalID: 7619633081400018804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_49
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 698
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b2270118a1e5830800000000000000
+      internalID: 4061713055563787060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_50
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 718
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a33828691ebba8e0800000000000000
+      internalID: -1681041019561823326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_51
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 695
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8d89c389d9d9bb0800000000000000
+      internalID: -4927609140096214787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_52
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 724
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be46f1a1d3dd7490800000000000000
+      internalID: -7746802886688485706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_53
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 726
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade08ee29af829380800000000000000
+      internalID: -8965945951342031142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_54
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 706
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1749bb7ac2ab400800000000000000
+      internalID: 340633820738122212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_55
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 693
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9299c6a969f98b6b0800000000000000
+      internalID: -5280295093907187415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_56
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 708
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e055ca2e2816ca0800000000000000
+      internalID: -6025390916379537878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_57
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 703
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88efdb714bc6c7a70800000000000000
+      internalID: 8826048890487570056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_58
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 697
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a7b2b7dbc1866c0800000000000000
+      internalID: -4150035456481068456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_59
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 696
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7126d2d7c48adbfd0800000000000000
+      internalID: -2324516786182200809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_60
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 698
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7daf321f7479b630800000000000000
+      internalID: 3943311037855411578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_61
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 701
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17bf97b00c0f4530800000000000000
+      internalID: 3841302204390553375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_62
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 690
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693491336a851fb90800000000000000
+      internalID: -7209884057598344298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_63
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 597
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904f6385914c4f430800000000000000
+      internalID: 3815890397422875657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_64
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 597
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2001239ce018815b0800000000000000
+      internalID: -5397422252898512894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_65
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 594
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d748b999aef1280800000000000000
+      internalID: -9070273179040842427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_66
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 632
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ef14ccc27b6ffb0800000000000000
+      internalID: -4614299365161173457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_67
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 633
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb3baa26800c9090800000000000000
+      internalID: -8026539859639583803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_68
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 622
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0fb432092733e70800000000000000
+      internalID: 9093738035984199858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_69
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 620
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2edc316634495040800000000000000
+      internalID: 4636812291704938029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_70
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 638
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd180576768b7c980800000000000000
+      internalID: -8518637415893532195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_71
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 642
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8cfa22a09371430800000000000000
+      internalID: 3753531530130999501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_72
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 626
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2d5601dc911aae0800000000000000
+      internalID: -1539921229049900366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_73
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 620
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b6d9f3f485259f0800000000000000
+      internalID: -481225112782279927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_74
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 646
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45dfbd89c014803f0800000000000000
+      internalID: -934425400319410860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_75
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 627
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29942bbb3ad92dd0800000000000000
+      internalID: -2510235367204677333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_76
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 629
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f861a4c89e19990800000000000000
+      internalID: -7380861525535846519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_77
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 610
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f3df36292649260800000000000000
+      internalID: 7103410893152403268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_78
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 592
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11383a813922ffba0800000000000000
+      internalID: -6053081358993751279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_79
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 610
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a880f9b1d19ed20800000000000000
+      internalID: 3308207405749799493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_80
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 601
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d2c1de82de3eca0800000000000000
+      internalID: -5988682319440106094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_81
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 593
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a15d64dcae2429e0800000000000000
+      internalID: -1647140243877572192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_82
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 595
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89eced7137aeb030800000000000000
+      internalID: 3512428590403479946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_83
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 607
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80723cd0601f69bf0800000000000000
+      internalID: -317801715380050168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_84
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 608
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585cfadff7a791fc0800000000000000
+      internalID: -3523650543305112187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_85
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 592
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed0034e7e44acde0800000000000000
+      internalID: -1312160578668589592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_86
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 606
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ad8905c22c0d300800000000000000
+      internalID: 274933072856144396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_87
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 593
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9c592893f9bd200800000000000000
+      internalID: 205933277328296424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_88
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 593
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345f9cd9543361cf0800000000000000
+      internalID: -281981552571058877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_89
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 590
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5dce510cf18b140800000000000000
+      internalID: 4735569918042101206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_90
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 592
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e435f8f63dbd7b0800000000000000
+      internalID: -5198328868769673702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_91
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 591
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c9f24e5b1b6fd10800000000000000
+      internalID: 2159108466146253854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_92
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 503
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1de2923997b4dbd0800000000000000
+      internalID: -2606256415734305510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_93
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 503
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4d8bc0995e7b350800000000000000
+      internalID: 6032542671392265426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_94
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 502
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cfdb2a85fc9da40800000000000000
+      internalID: 5393570008347311246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_95
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 502
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf629177ceec7f70800000000000000
+      internalID: 9186479880300294071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_96
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 502
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7f177babfd434a0800000000000000
+      internalID: -6614415959665805400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_97
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 502
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1427e39ca1248b90800000000000000
+      internalID: -7240625275805424612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_98
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 409
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018ae189b6d5a0d50800000000000000
+      internalID: 6704273711989434384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_99
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 408
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49bb00f7bc300770800000000000000
+      internalID: 8574920451217406283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_100
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 408
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789afad28d42df560800000000000000
+      internalID: 7349070677836540295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_101
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 408
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f66a09c6a066cc60800000000000000
+      internalID: 7838058470938666737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_102
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 409
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32507b73cd9baff20800000000000000
+      internalID: 3457280019438961955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_103
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 409
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2421ce84e28d47e0800000000000000
+      internalID: -1779622359582301139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_104
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 309
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ee7d236ed0c6ee0800000000000000
+      internalID: -1266622112851300797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_105
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 309
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564f48f082e67fc10800000000000000
+      internalID: 2087258070647632997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_106
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 308
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c054e7a50556b3a0800000000000000
+      internalID: -6650034316986003258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_107
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 308
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7bf476018c36380800000000000000
+      internalID: -8979113259268327436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_108
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 308
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc3ce7eeb60661d0800000000000000
+      internalID: -3357989055153554188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_109
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 309
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e95cbc4aacc55a0800000000000000
+      internalID: -6531122550451888567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_110
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 215
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5b2b6dbc93993b0800000000000000
+      internalID: -5505305521840540234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_111
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 216
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28cf74867f2106c0800000000000000
+      internalID: -4179006793147496406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_112
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 218
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5072934058ad710f0800000000000000
+      internalID: -1146207315306141947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_113
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 197
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba69624fc69041e0800000000000000
+      internalID: -2215605199749682504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_114
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 195
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b3ceec6b0754ba0800000000000000
+      internalID: -6105349789372892335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_115
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 204
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0ad23531c939f80800000000000000
+      internalID: -8100959697895579404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_116
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 121
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bf7bedf9581e760800000000000000
+      internalID: 7485410977349368678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_117
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 123
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5634b5ed1d149c60800000000000000
+      internalID: 7823910466894444125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_118
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 123
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3114034c396574ab0800000000000000
+      internalID: -5023951666656820973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_119
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 103
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb8dca6ee72efba0800000000000000
+      internalID: -6053356944191812668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_120
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 101
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842d7058b7d65d9c0800000000000000
+      internalID: -3903093124766379448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_121
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 111
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ce92106f25a7210800000000000000
+      internalID: 1331467856376360043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_122
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 21
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4360789eccd375c50800000000000000
+      internalID: 6653854924763760180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_123
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 23
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d578d7ff33de6aff0800000000000000
+      internalID: -25071940318427299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_124
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 24
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b6f21be53fc6700800000000000000
+      internalID: 535070043775396621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_125
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 3
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922164c664bb94af0800000000000000
+      internalID: -411591979789053399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_126
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc53a9a2a886a750800000000000000
+      internalID: 6315885759645834492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_transparent_127
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 10
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5fa01c343dc6500800000000000000
+      internalID: 390919555629381091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mage_transparent_0: -3457182401665472128
+      Mage_transparent_1: -4073854288678927368
+      Mage_transparent_10: -5788662959403706047
+      Mage_transparent_100: 7349070677836540295
+      Mage_transparent_101: 7838058470938666737
+      Mage_transparent_102: 3457280019438961955
+      Mage_transparent_103: -1779622359582301139
+      Mage_transparent_104: -1266622112851300797
+      Mage_transparent_105: 2087258070647632997
+      Mage_transparent_106: -6650034316986003258
+      Mage_transparent_107: -8979113259268327436
+      Mage_transparent_108: -3357989055153554188
+      Mage_transparent_109: -6531122550451888567
+      Mage_transparent_11: 4534695080275824750
+      Mage_transparent_110: -5505305521840540234
+      Mage_transparent_111: -4179006793147496406
+      Mage_transparent_112: -1146207315306141947
+      Mage_transparent_113: -2215605199749682504
+      Mage_transparent_114: -6105349789372892335
+      Mage_transparent_115: -8100959697895579404
+      Mage_transparent_116: 7485410977349368678
+      Mage_transparent_117: 7823910466894444125
+      Mage_transparent_118: -5023951666656820973
+      Mage_transparent_119: -6053356944191812668
+      Mage_transparent_12: -7368826843042918005
+      Mage_transparent_120: -3903093124766379448
+      Mage_transparent_121: 1331467856376360043
+      Mage_transparent_122: 6653854924763760180
+      Mage_transparent_123: -25071940318427299
+      Mage_transparent_124: 535070043775396621
+      Mage_transparent_125: -411591979789053399
+      Mage_transparent_126: 6315885759645834492
+      Mage_transparent_127: 390919555629381091
+      Mage_transparent_13: 2835088790658455893
+      Mage_transparent_14: 7410751051429797962
+      Mage_transparent_15: -303671628962565847
+      Mage_transparent_16: 1900058123612112604
+      Mage_transparent_17: -5131162884825120684
+      Mage_transparent_18: 4935079959484495519
+      Mage_transparent_19: 8955902936962204531
+      Mage_transparent_2: 7481401196232517989
+      Mage_transparent_20: 9067784759707005012
+      Mage_transparent_21: 9164657030429259491
+      Mage_transparent_22: 2508216050169178438
+      Mage_transparent_23: -7918696640910718578
+      Mage_transparent_24: -946038083214275683
+      Mage_transparent_25: -9068985649088731334
+      Mage_transparent_26: 1177853657488498846
+      Mage_transparent_27: -1358803390539416408
+      Mage_transparent_28: -7234100494342151398
+      Mage_transparent_29: 3033252053546747906
+      Mage_transparent_3: -4459680549336109716
+      Mage_transparent_30: 362913165864363580
+      Mage_transparent_31: 3472012280321899135
+      Mage_transparent_32: 3872596713064745521
+      Mage_transparent_33: 7932610615754197199
+      Mage_transparent_34: 1858282097975518212
+      Mage_transparent_35: -4508013705581875952
+      Mage_transparent_36: 2692328310362111507
+      Mage_transparent_37: 2463913554991952033
+      Mage_transparent_38: 722789452078538716
+      Mage_transparent_39: -6319273227431110595
+      Mage_transparent_4: -7840966067648155629
+      Mage_transparent_40: 3956070302092935679
+      Mage_transparent_41: -5238233296086240912
+      Mage_transparent_42: 567154524410380461
+      Mage_transparent_43: 5790186339075253128
+      Mage_transparent_44: -3421597987179187314
+      Mage_transparent_45: 2051065842138142011
+      Mage_transparent_46: 6262593609230746396
+      Mage_transparent_47: -5933224586719764482
+      Mage_transparent_48: 7619633081400018804
+      Mage_transparent_49: 4061713055563787060
+      Mage_transparent_5: 3825192843350432454
+      Mage_transparent_50: -1681041019561823326
+      Mage_transparent_51: -4927609140096214787
+      Mage_transparent_52: -7746802886688485706
+      Mage_transparent_53: -8965945951342031142
+      Mage_transparent_54: 340633820738122212
+      Mage_transparent_55: -5280295093907187415
+      Mage_transparent_56: -6025390916379537878
+      Mage_transparent_57: 8826048890487570056
+      Mage_transparent_58: -4150035456481068456
+      Mage_transparent_59: -2324516786182200809
+      Mage_transparent_6: -3895765206043208144
+      Mage_transparent_60: 3943311037855411578
+      Mage_transparent_61: 3841302204390553375
+      Mage_transparent_62: -7209884057598344298
+      Mage_transparent_63: 3815890397422875657
+      Mage_transparent_64: -5397422252898512894
+      Mage_transparent_65: -9070273179040842427
+      Mage_transparent_66: -4614299365161173457
+      Mage_transparent_67: -8026539859639583803
+      Mage_transparent_68: 9093738035984199858
+      Mage_transparent_69: 4636812291704938029
+      Mage_transparent_7: 3771302620769114612
+      Mage_transparent_70: -8518637415893532195
+      Mage_transparent_71: 3753531530130999501
+      Mage_transparent_72: -1539921229049900366
+      Mage_transparent_73: -481225112782279927
+      Mage_transparent_74: -934425400319410860
+      Mage_transparent_75: -2510235367204677333
+      Mage_transparent_76: -7380861525535846519
+      Mage_transparent_77: 7103410893152403268
+      Mage_transparent_78: -6053081358993751279
+      Mage_transparent_79: 3308207405749799493
+      Mage_transparent_8: -5671806871032337646
+      Mage_transparent_80: -5988682319440106094
+      Mage_transparent_81: -1647140243877572192
+      Mage_transparent_82: 3512428590403479946
+      Mage_transparent_83: -317801715380050168
+      Mage_transparent_84: -3523650543305112187
+      Mage_transparent_85: -1312160578668589592
+      Mage_transparent_86: 274933072856144396
+      Mage_transparent_87: 205933277328296424
+      Mage_transparent_88: -281981552571058877
+      Mage_transparent_89: 4735569918042101206
+      Mage_transparent_9: -7394516638538065797
+      Mage_transparent_90: -5198328868769673702
+      Mage_transparent_91: 2159108466146253854
+      Mage_transparent_92: -2606256415734305510
+      Mage_transparent_93: 6032542671392265426
+      Mage_transparent_94: 5393570008347311246
+      Mage_transparent_95: 9186479880300294071
+      Mage_transparent_96: -6614415959665805400
+      Mage_transparent_97: -7240625275805424612
+      Mage_transparent_98: 6704273711989434384
+      Mage_transparent_99: 8574920451217406283
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
